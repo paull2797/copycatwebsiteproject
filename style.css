@@ -1,0 +1,63 @@
+
+
+.searchbar{
+text-align:center;
+margin:0px auto 10px auto;
+}
+.logo{
+display: block;
+margin:150px auto 25px auto;
+}
+.about a{
+display:inline-block;
+padding:10px;
+margin:10px;
+}
+.store a{
+display:inline-block;
+padding:10px;
+margin-left:10px;
+}
+.gmail a{
+text-align:right;
+padding:10px;
+margin:10px;
+}
+.images a{
+padding:10px;
+margin:10px;
+}
+.ad a{
+margin:100px;
+padding:50px;
+
+}
+.busy a{
+margin:10px;
+}
+.how a{
+margin:10px;
+}
+.privacy a{
+margin:10px;
+}
+.terms a{
+margin:10px;
+}
+.setting a{
+margin:10px;
+}
+
+a:visited{
+color:black;
+text-decoration:none;
+}
+
+a:link{
+color:black;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:underline;
+}
