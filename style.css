@@ -3,6 +3,7 @@
 .searchbar{
 text-align:center;
 margin:0px auto 10px auto;
+border-radius:20px;
 }
 .logo{
 display: block;
